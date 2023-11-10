@@ -1,0 +1,15 @@
+1. WAP to print from 1 to n .
+2. WAP to print all odd numbers from 1 to n.
+3. WAP to print all numbers divisible by 3 and 5 between 1 and n.
+4. WAP to print all numbers between 1 and n which are ending with 9.
+5. WAP to print all numbers from 1 to 10 except 5.
+6. WAP to take first name, middle name and last name as input from the user in different lines and print it on the terminal as one name with spaces. Use only primitive types.
+7. WAP to print all Armstrong numbers from 1 to n. If not available, display proper msg to the user.
+8. WAP to print whether a given number is perfect number or not.
+9. WAP to swap first and last digits of a given number.
+10. WAP to check whether a given number is palindrome or not.
+11. WAP to find all factors of a given number.
+12. WAP to print all Strong numbers between 1 to n.
+13. WAP to display hexadecimal  and octal version of a given number.
+14. WAP to enter a number and print its reverse.
+15. WAP to print multiplication table of any given number.

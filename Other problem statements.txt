@@ -1,0 +1,5 @@
+1. Find the list of different toss winners yearwise
+2. Find the count of times each team has won the match between 2008 and 2016(inclusive)
+3. Find the team which has won the match maximum number of times between 2008 and 2016(inclusive)
+4. Find the number of matches held in each year between 2008 and 2016(inclusive)
+5. Find the number of matches between RCB and KKR in the year 2010
